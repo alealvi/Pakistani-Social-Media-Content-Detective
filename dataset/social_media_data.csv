@@ -1,0 +1,6 @@
+post_id,platform,caption,content_type,hashtags,likes,comments,shares,post_date,post_time,sentiment,topic
+1,Instagram,Bohat achi product,Image,#Pakistan,500,80,40,2026-10-20,18:30,Positive,Retail
+2,Facebook,Service bohat slow hai,Text,#Pakistan,120,45,10,2026-10-20,14:00,Negative,Services
+3,TikTok,AI technology is amazing,Video,#AIinPakistan,900,150,200,2026-10-21,20:00,Positive,Technology
+4,YouTube,Please share more details,Video,#EducationPK,300,40,20,2026-10-21,16:00,Neutral,Education
+5,Instagram,Quality is excellent,Reel,#PakistaniBrands,700,100,90,2026-10-22,19:00,Positive,Retail
